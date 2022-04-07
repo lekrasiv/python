@@ -1,0 +1,6 @@
+words = "В лесу родилась ёлочка"
+count = 0
+for word in words.split(" "):
+    if word.strip()[0] == 'ё':
+        count +=1
+print(count)
