@@ -1,0 +1,4 @@
+p = float(input("КГ = "))
+for x in range(1, 11 // 10):
+    landungalia = i*un
+print(x*p)
